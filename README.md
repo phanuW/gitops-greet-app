@@ -1,1 +1,1 @@
-# gitops-greet-app
+# gitops-register-app
